@@ -3,6 +3,6 @@ const svg = `<svg width="${squareSize}" height="${squareSize}" xmlns="http://www
 
   <rect width="${squareSize}" height="${squareSize}" style="fill:${squareColor}" /></svg>`
 
-   <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+   <text x="150" y="125" font-size="60" text-anchor="middle" fill="red">SVG</text>
 
 </svg>
