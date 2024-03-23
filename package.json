@@ -3,3 +3,19 @@
     "inquirer": "^8.2.4"
   }
 }
+
+{
+  "name": "generator-svg-logo",
+  "description": "this is generator for logos svg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "test": "jest"
+},
+
+{
+    "start": "node index.js",
+    "test": "jest"
+  }
+
+
+  
