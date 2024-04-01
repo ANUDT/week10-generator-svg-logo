@@ -38,3 +38,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 Mock-Up
 The following image shows a mock-up of the generated SVG given the following input entered by the user: SVG for the text, white for the text color, circle from the list of shapes, and green for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
+
+
+https://github.com/ANUDT/week10-generator-svg-logo.git
+
+https://github.com/ANUDT/week10-generator-svg-logo
+
+https://drive.google.com/file/d/1wSQuCMa-A2BCOs2_lL9-6WoXP6yAiQya/view
